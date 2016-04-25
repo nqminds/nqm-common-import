@@ -3,8 +3,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/nqminds/nqm-common-import.git"
-  },  
-  "version": "0.0.4",
+  },
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
