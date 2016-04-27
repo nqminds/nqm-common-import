@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git://github.com/nqminds/nqm-common-import.git"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
